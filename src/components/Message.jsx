@@ -11,6 +11,8 @@ function formatText(text) {
   })
 }
 
+
+kjh
 function formatTime(date) {
   return date.toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' })
 }
